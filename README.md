@@ -2,13 +2,15 @@
 
 This tool is created to use a set of conditions to scrape [property24](https://www.property24.com/)
 
-<!-- ## Requirements
+## Requirements
 
-- !pip install requests-html
-- !pip install bs4 # BeautifulSoup
-- !pip install requests-html
+- pip install requests-html
+- pip install requests
+- pip install bs4 # BeautifulSoup
+- pip install lxml
+- pip install html5lib
 
-## Installation
+<!-- ## Installation
 
 1. Steps to install your project.
 1. Include commands if possible.
